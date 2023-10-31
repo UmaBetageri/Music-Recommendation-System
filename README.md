@@ -6,7 +6,7 @@ Music recommendation systems are becoming increasingly popular in today's digita
 
 For this project, we used Spotify dataset from Kaggle. The main dataset contains 19 columns, and 170653 rows includes data from 1920 to 2020. The description of which is given below. The metadata includes four csv files which gives detailed information about songs’ artists, genre, and release year. The main dataset is used for building music recommendation system, while the metadata is used for exploratory data analysis to find the hidden patterns of the data.
 
-<img width="420" alt="image" src="https://github.com/UmaBetageri/Music-Recommendation-System/assets/134670470/3f3efcfe-5237-4cd0-bc5e-aae684e4cc18">
+<img width="520" alt="image" src="https://github.com/UmaBetageri/Music-Recommendation-System/assets/134670470/3f3efcfe-5237-4cd0-bc5e-aae684e4cc18">
 
 
 
