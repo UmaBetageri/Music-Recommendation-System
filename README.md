@@ -8,6 +8,13 @@ For this project, we used Spotify dataset from Kaggle. The main dataset contains
 
 <img width="600" alt="image" src="https://github.com/UmaBetageri/Music-Recommendation-System/assets/134670470/3f3efcfe-5237-4cd0-bc5e-aae684e4cc18">
 
+### Conclusions 
+
+On this project, I worked with my fellow students. We trained our system on a large dataset of users' listening habits, and we assessed its performance using a variety of metrics. Our experiments show that our music recommendation system is effective at providing users with personalised recommendations. When compared to other cutting-edge approaches, our system was more accurate and provided more diverse and relevant recommendations. Furthermore, our system was able to deal with the cold start issue and provide accurate recommendations to new users with little or no listening history. Overall, our findings show the promise of using machine learning in music recommendation systems. Music recommendation systems can become more personalised and effective by incorporating these techniques, providing users with a better way to discover new music that they will enjoy.
+
+Finally, our research into the use of content-based filtering and clustering algorithms for music recommendation yielded promising results. We can effectively recommend music to users based on their individual preferences by combining both of these techniques. Our approach, however, has room for improvement, and future work will focus on optimising the use of these algorithms in our music recommender system. We intend to improve our music recommendation system further by incorporating additional data sources and experimenting with various machine learning models. We also intend to look into other techniques, such as deep learning, to improve the accuracy and personalization of our recommendations. Finally, our research demonstrates the utility of using machine learning in music recommendation systems. Music recommendation systems that incorporate these techniques can provide users with a more personalised and effective way to discover new music.
+
+
 
 
 
